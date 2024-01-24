@@ -2,7 +2,7 @@ import React from "react";
 import '../Styles/SocialMediaBar.css'
 import github from '../Assets/github-logo.svg'
 import linkedin from '../Assets/linkedin-logo.svg'
-import github from '../Assets/leetcode-logo.svg'
+import leetcode from '../Assets/leetcode-logo.svg'
 
 function SocialMediaBar() {
     return (
@@ -11,9 +11,6 @@ function SocialMediaBar() {
                 <img src={linkedin}/>
             </a>
             <a href={"https://github.com/aliu07"} target="_blank" rel="noopener noreferrer" className="icon-container">
-                <img src={github}/>
-            </a>
-            <a href={"https://leetcode.com/TookaPack/"} target="_blank" rel="noopener noreferrer" className="icon-container">
                 <img src={github}/>
             </a>
         </div>
