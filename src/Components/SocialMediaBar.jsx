@@ -2,7 +2,6 @@ import React from "react";
 import '../Styles/SocialMediaBar.css'
 import github from '../Assets/github-logo.svg'
 import linkedin from '../Assets/linkedin-logo.svg'
-import leetcode from '../Assets/leetcode-logo.svg'
 
 function SocialMediaBar() {
     return (
