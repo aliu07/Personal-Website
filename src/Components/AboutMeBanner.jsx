@@ -13,7 +13,7 @@ function AboutMeBanner() {
                 <ResumeAndProjectsButtons></ResumeAndProjectsButtons>
             </div>
             <p>
-            I am a 2nd year software engineering student in the co-op program at McGill University. I thrive in problem-solving, consistently seeking and embracing challenges as opportunities for personal and professional growth. Beyond my technical program, I am also involved in other hobbies and extracurriculars that you can find out about by below.
+            I am a 2nd year software engineering student in the co-op program at McGill University. I thrive in problem-solving, consistently seeking and embracing challenges as opportunities for personal and professional growth. Beyond my technical background, I am also invested in other hobbies and extracurriculars that you can find out about by below.
             </p>
         </div>
     );
