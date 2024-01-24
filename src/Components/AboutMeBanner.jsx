@@ -13,10 +13,7 @@ function AboutMeBanner() {
                 <ResumeAndProjectsButtons></ResumeAndProjectsButtons>
             </div>
             <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempore minus neque ipsum ex praesentium quaerat voluptatum assumenda aspernatur, repellendus natus ut consectetur earum excepturi nostrum, maiores recusandae reprehenderit. Reprehenderit, optio.
-            </p>
-            <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam aperiam totam aspernatur, labore sequi perspiciatis eius praesentium, ab ipsa nihil possimus quas quos porro in. Officia excepturi atque repudiandae perspiciatis! Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi quos dignissimos soluta suscipit ullam sapiente temporibus dicta dolore facilis ratione doloribus fugit obcaecati blanditiis tempora, earum ab voluptates! Et, atque?
+            I am a 2nd year software engineering student in the co-op program at McGill University. I thrive in problem-solving, consistently seeking and embracing challenges as opportunities for personal and professional growth. Beyond my technical program, I am also involved in other hobbies and extracurriculars that you can find out about by below.
             </p>
         </div>
     );
