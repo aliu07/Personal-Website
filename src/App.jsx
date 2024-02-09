@@ -1,12 +1,12 @@
 import './App.css';
 import WelcomePage from './Components/WelcomePage';
-import HomePage from './Components/HomePage';
+import MainPage from './Components/MainPage';
 
 function App() {
   return (
     <div>
       <WelcomePage></WelcomePage>
-      <HomePage></HomePage>
+      <MainPage></MainPage>
     </div>
   );
 }
