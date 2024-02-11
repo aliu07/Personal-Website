@@ -9,13 +9,33 @@
 
 .logo-container {
     width: 65%;
+    display: flex;
+    justify-content: baseline;
+    align-items: center;
+    padding-left: 25px;
+}
+
+.logo-text {
+    color: #fff;
+    font-size: 22px;
+    letter-spacing: 2px;
+    color: #1DCDFE;
+    font-weight: 600;
+}
+
+.logo-image {
+    height: 45px;
+    width: 45px;
+    margin-left: 12px;
 }
 
 .nav-bar-item-container {
+    width: 35%;
     display: flex;
-    justify-content: center;
+    justify-content: right;
     align-items: center;
     gap: 25px;
+    padding-right: 25px;
 }
 
 .home-nav-bar-item {

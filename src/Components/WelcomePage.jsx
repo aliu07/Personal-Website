@@ -5,7 +5,7 @@ import '../Styles/WelcomePage.css'
 
 function WelcomePage() {
     const [animationComplete, setAnimationComplete] = useState(false);
-    const [buttonClicked, setButtonClicked] = useState(false);
+    const [setButtonClicked] = useState(false);
 
     const handleAnimationEnd = () => {
       setAnimationComplete(true);
